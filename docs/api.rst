@@ -212,7 +212,7 @@ authenticated user's wall if no ``profile_id`` is specified.
 .. code-block:: python
 
     attachment =  {
-        'name': 'Link name'
+        'name': 'Link name',
         'link': 'https://www.example.com/',
         'caption': 'Check out this example',
         'description': 'This is a longer description of the attachment',
